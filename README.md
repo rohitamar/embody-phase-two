@@ -1,1 +1,1 @@
-# embody-phase-two
+# Bodily Maps Collection Web Application
